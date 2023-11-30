@@ -1,0 +1,178 @@
+* {
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+     font-family:" League Spartan",sans-serif ; 
+}
+
+
+#hero {
+    background: #FFF ;
+    padding: 100px 0;
+}
+
+.container {
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.hero-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.content span {
+font-size: 24px;
+color: #161515;
+font-weight: 300;
+}
+
+.content h1 {
+    font-size: 250px;
+    font-weight: 300;
+    margin-top: 50px;
+}
+
+.content p {
+    font-size: 32px;
+    max-width: 575px;
+    font-weight: 300;
+    line-height: 155%;
+}
+
+.buttons {
+    display: flex;
+    margin-top: 60px;
+}
+
+.buttons button {
+    padding: 30px 73px;
+    border: none;
+    cursor: pointer;
+    font-size: 32px;
+}
+
+.black {
+background: #161515;
+color: white;
+}
+
+.while {
+    background: white;
+    padding: 30px 27px !important;
+}
+
+.hero-content-images img {
+    display: flex;
+    align-items: space-between  ;
+}
+
+#wrapper {
+    font-family: "League Spartan",sans-serif; 
+    background: #FFF;
+}
+
+.a1 {
+text-align: center;
+padding-top: 200px;
+}
+
+.a1 span {
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.a1 h1 {
+    font-size: 72px;
+    font-weight: 400;
+    margin-top: 17px;
+}
+
+.a2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.a2 img {
+    padding: 70px 20px;
+    background-color: #F8F8F8;;
+}
+
+
+.a3 {
+    width: 300px;
+    margin: 60px auto 0;
+    text-align: center;
+}
+
+.a3 span {
+    font-size: 32px;
+    font-weight: 500;
+   
+}
+
+.a3 p {
+text-align: center;
+font-size: 17px;
+font-weight: 300;
+line-height: 140%; 
+padding-top: 20px;
+}
+.arrow-images  {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+.check {
+     width: 400;
+     margin: 60px auto 0;
+     text-align: center;
+     padding-top: 40px;
+}
+.check span {
+    font-size: 32px;
+    font-weight: 400;
+}
+.check p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 140%;
+    padding-top: 20px;
+}
+.check1 {
+    width: 400;
+    margin: 60px auto 0;
+    text-align: center;
+    padding-top: 40px;
+}
+.check1 h1 {
+    font-size: 32px;
+    font-weight: 400;
+}
+.check1 p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 140%;
+    padding-top: 40px;
+}
+.check1 span {
+    color: #BB8B5D;
+}
+    
+
+
+
+
